@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kulleh
 - 👀 I’m interested in gaming and game developing
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me idk maybe IG
 - 😄 Pronouns: He
